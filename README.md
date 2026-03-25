@@ -14,26 +14,7 @@ A clean and beginner-friendly **Simple Calculator** project that performs basic 
 * 🔁 Continuous calculations (optional loop support)
 * ⚠️ Input validation (optional advanced version)
 
----
 
-## 🛠️ Technologies Used
-
-* Python (or update with your language)
-* Console-based interface
-
----
-
-## 📂 Project Structure
-
-```
-simple-calculator/
-│
-├── calculator.py      # Main calculator script
-├── README.md          # Project documentation
-└── .gitignore         # Ignored files
-```
-
----
 
 
    ```
