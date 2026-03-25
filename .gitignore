@@ -1,0 +1,84 @@
+# ----------------------
+# Python
+# ----------------------
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+.Python
+build/
+dist/
+downloads/
+.eggs/
+*.egg-info/
+*.egg
+pip-wheel-metadata/
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+
+# Logs
+*.log
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+pytest_cache/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# ----------------------
+# PyCharm / IntelliJ
+# ----------------------
+.idea/
+*.iml
+
+# ----------------------
+# OS files
+# ----------------------
+.DS_Store
+Thumbs.db
+
+# ----------------------
+# Environment variables
+# ----------------------
+.env
+.env.*
+
+# ----------------------
+# VS Code (optional)
+# ----------------------
+.vscode/
+
+# ----------------------
+# MyPy / type checking
+# ----------------------
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# ----------------------
+# Pyre / static analysis
+# ----------------------
+.pyre/
+
+# ----------------------
+# C extensions
+# ----------------------
+*.so
+
+# ----------------------
+# Temporary files
+# ----------------------
+*.swp
+*.swo
+*~
