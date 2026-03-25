@@ -35,18 +35,7 @@ simple-calculator/
 
 ---
 
-## ▶️ How to Run
 
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/simple-calculator.git
-   ```
-
-2. Navigate to the project folder:
-
-   ```bash
-   cd simple-calculator
    ```
 
 3. Run the program:
